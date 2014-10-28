@@ -1,0 +1,17 @@
+h1 {
+    color: white;
+    font-size: 50px;
+    font-family: marker felt;
+    font-style: italic;
+    opacity: .7;
+}
+h1:hover {
+    color: white;
+    opacity: 1;
+}
+img {
+    height: 300px;
+}
+img:hover {
+    height: 500px;
+}
